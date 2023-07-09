@@ -18,7 +18,7 @@
             &__logo, &__links__item:first-child {
                 opacity: 0;
                 visibility: hidden;
-                transition: opacity .5 ease;
+                transition: opacity .5s ease;
 
             }
         }
